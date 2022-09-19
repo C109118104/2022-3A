@@ -8,3 +8,7 @@
 # 😮♒
 
 ![nkust](nkust.png "nkust")
+
+- [ ] todo list
+- [x] done
+- [ ] 水瓶座
