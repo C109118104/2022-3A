@@ -12,3 +12,8 @@
 - [ ] todo list
 - [x] done
 - [x] 水瓶座
+
+```python
+s = "Python Syntax Highlighting "
+print(s)
+```
